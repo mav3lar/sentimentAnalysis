@@ -1,2 +1,2 @@
 # sentimentAnalysis
-Analysis of Yelp reviews using sentiment anlysis and linear regression.
+Analysis of Yelp reviews using sentiment analysis and linear regression.
